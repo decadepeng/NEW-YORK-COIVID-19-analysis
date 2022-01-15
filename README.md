@@ -17,7 +17,10 @@ pip install matplotlib
 pip install seaborn
 ```
 
+## Methods Used
+Data Visualization
 
+Data Analysis
 ## Presentation
 
 ### Basic COVID-19 data in New York
