@@ -18,9 +18,9 @@ pip install seaborn
 ```
 
 ## Methods Used
-Data Visualization
+3D Plot Data Visualization
 
-Data Analysis
+K-means clustering and Elbow Method, Data Analysis
 ## Presentation
 
 ### Basic COVID-19 data in New York
